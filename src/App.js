@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  sadfdksajfk<?>adsf
   return (
     <div className="App">
       <header className="App-header">
